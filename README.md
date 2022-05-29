@@ -1,0 +1,2 @@
+# Collaborative-Notepad
+A simple MERN Stack application allowing multiple users for real-time collaborative editing like Google Docs. One user can create personal document with a password and can also collaborate with other users docs by entering the ID and password. Editor will support multiple users real-time changing. A change made by one user will be automatically visible to other user in the editor.
